@@ -68,7 +68,7 @@ module.exports = {
       config: {
         repository: {
           owner: "roulios44",
-          name: "ElectronJSDemo",
+          name: "electronTP",
         },
         prerelease: false,
         draft: true,
